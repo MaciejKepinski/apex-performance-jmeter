@@ -1,2 +1,12 @@
 # apex-performance-jmeter
-Testing Oracle APEX with jmeter example test scenario
+
+About
+
+Testing Oracle APEX with jMeter example test scenario & presentation in Polish
+
+Change Log
+
+v1.0 initial release
+
+License
+MIT
